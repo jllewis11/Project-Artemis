@@ -11,7 +11,7 @@ This modpack recommends allocating >4GB of RAM.
 
  
 
-#Featured Mods:
+Featured Mods:
 
   -  Minecolonies
   -  Alex's Mobs
